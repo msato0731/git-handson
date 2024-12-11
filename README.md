@@ -1,3 +1,3 @@
 # Gitハンズオン手順
 
-[GitLab](./git/README.md)
+[Merge Request](./merge_request/README.md)
